@@ -1,0 +1,89 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./podcasts/podcast1.wav",
+      "title": "Episode 1: How to Get Hired as a Developer",
+      "description": "Hear my podcast with Jolly about how to get hired in the super competitive market with the right skills and certiffications"
+    },
+    {
+      "id": "2",
+      "src": "./podcasts/podcast1.wav",
+      "title": "Episode 2: Skills You Need in Australia Tech Market",
+      "description": "Listen to this amazing podcast by Mary about what skills you need for the tech industry in Australia"
+    },
+    {
+      "id": "3",
+      "src": "./podcasts/podcast1.wav",
+      "title": "Episode 1: How to Get Hired as a Developer",
+      "description": "Hear my podcast with Jolly about how to get hired in the super competitive market with the right skills and certiffications"
+    },
+    {
+      "id": "4",
+      "src": "./podcasts/podcast1.wav",
+      "title": "Episode 2: Skills You Need in Australia Tech Market",
+      "description": "Listen to this amazing podcast by Mary about what skills you need for the tech industry in Australia"
+    },
+    {
+      "id": "5",
+      "src": "./podcasts/podcast1.wav",
+      "title": "Episode 1: How to Get Hired as a Developer",
+      "description": "Hear my podcast with Jolly about how to get hired in the super competitive market with the right skills and certiffications"
+    },
+    {
+      "id": "6",
+      "src": "./podcasts/podcast1.wav",
+      "title": "Episode 2: Skills You Need in Australia Tech Market",
+      "description": "Listen to this amazing podcast by Mary about what skills you need for the tech industry in Australia"
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/placeholder-image.png",
+      "title": "Ahuse",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "View In Github"
+    },
+    {
+      "id": "2",
+      "src": "./img/placeholder-image-1.png",
+      "title": "App Dashboard",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "View In Github"
+    },
+    {
+      "id": "3",
+      "src": "./img/placeholder-image-2.png",
+      "title": "Easy Rentn",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "View In Github"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/avatar-image.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Dianne Russel",
+      "author_designation": "Starbucks"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/avatar-image-1.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kristin Watson",
+      "author_designation": "Louis Vuitton"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/avatar-image-2.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kathryn Murphy",
+      "author_designation": "McDonald's"
+    }
+  ]
+}
