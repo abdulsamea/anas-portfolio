@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "https://abdulsamea.github.io/anas-portfolio/static/css/main.f0f67f77.css",
-    "main.js": "https://abdulsamea.github.io/anas-portfolio/static/js/main.0fea5f87.js",
-    "index.html": "https://abdulsamea.github.io/anas-portfolio/index.html",
-    "main.f0f67f77.css.map": "https://abdulsamea.github.io/anas-portfolio/static/css/main.f0f67f77.css.map",
-    "main.0fea5f87.js.map": "https://abdulsamea.github.io/anas-portfolio/static/js/main.0fea5f87.js.map"
+    "main.css": "/anas-portfolio/static/css/main.f0f67f77.css",
+    "main.js": "/anas-portfolio/static/js/main.a874edb9.js",
+    "index.html": "/anas-portfolio/index.html",
+    "main.f0f67f77.css.map": "/anas-portfolio/static/css/main.f0f67f77.css.map",
+    "main.a874edb9.js.map": "/anas-portfolio/static/js/main.a874edb9.js.map"
   },
   "entrypoints": [
     "static/css/main.f0f67f77.css",
-    "static/js/main.0fea5f87.js"
+    "static/js/main.a874edb9.js"
   ]
 }
